@@ -1,0 +1,5 @@
+    CRect *myrect1 = [[CRect alloc] init];
+    CRect *myrect2 = [[CRect alloc] init];
+    CPoint *p1 = [[CPoint alloc] init];
+    CPoint *p2 = [[CPoint alloc] init];
+    DoCRect *dorect = [[DoCRect alloc] init];
