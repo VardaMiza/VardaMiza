@@ -1,0 +1,6 @@
+    [myrect1 setOrigin:p1];
+    [myrect1 setWH:250 :75];
+    [myrect1 print];
+    [myrect2 setOrigin:p2];
+    [myrect2 setWH:100 :180];
+    [myrect2 print];
