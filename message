@@ -1,0 +1,7 @@
+         Transport.send(message);
+         System.out.println("Sent message successfully....from (cainiaojc.com)");
+      }catch (MessagingException mex) {
+         mex.printStackTrace();
+      }
+   }
+}
