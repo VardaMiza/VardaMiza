@@ -1,0 +1,13 @@
+      /
+      BigInteger value1 = input.nextBigInteger();
+      System.out.println("Using nextBigInteger(): " + value1);
+
+      System.out.print(": ");
+
+      //
+      BigDecimal value2 = input.nextBigDecimal();
+      System.out.println("Using nextBigDecimal(): " + value2);
+
+      input.close();
+   }
+}
